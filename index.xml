@@ -13,7 +13,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://diegooryan.github.io/docs/post1/</guid>
-      <description>Promer post realizado con Hugo</description>
+      <description>Contenido encargo 0</description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>https://diegooryan.github.io/docs/encargo2/</guid>
       <description>Contenido encargo 1</description>
+    </item>
+    
+    <item>
+      <title>3 Conceptos de Sillas</title>
+      <link>https://diegooryan.github.io/docs/3conceptosdesilla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://diegooryan.github.io/docs/3conceptosdesilla/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
@@ -41,6 +50,15 @@
       
       <guid>https://diegooryan.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Entrega final unidad 1</title>
+      <link>https://diegooryan.github.io/docs/entregafinal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://diegooryan.github.io/docs/entregafinal/</guid>
+      <description>Entrega silla Plieg y pdf informativo</description>
     </item>
     
   </channel>
