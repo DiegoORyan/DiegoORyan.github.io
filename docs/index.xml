@@ -61,5 +61,23 @@
       <description>Entrega silla Plieg y pdf informativo</description>
     </item>
     
+    <item>
+      <title>Entrevista</title>
+      <link>https://diegooryan.github.io/docs/entrevista/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://diegooryan.github.io/docs/entrevista/</guid>
+      <description>A continuación se encontrarán los resultados de la entrevista a Martita Serani</description>
+    </item>
+    
+    <item>
+      <title>Moldes Fusion 360</title>
+      <link>https://diegooryan.github.io/docs/moldes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://diegooryan.github.io/docs/moldes/</guid>
+      <description>Encargo replicar moldes de tutoriales</description>
+    </item>
+    
   </channel>
 </rss>
